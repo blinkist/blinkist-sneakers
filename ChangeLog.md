@@ -1,6 +1,6 @@
 # Sneakers Change Log
 
-## v2.12.0patch1
+## v2.12.0.patch1
 
 Remove rack dependency from v12.
 
